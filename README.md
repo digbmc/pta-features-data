@@ -17,3 +17,9 @@ Author: Tallulah Stallvik
 Essay: [My Awesome, Annotated Mixtape #6](https://ptannotated.com/essays/my-annotated-mixtape.html)
 
 ReadMe: [music-ts/README.md](/music-ts/README.md)
+
+# Between the Lines
+
+Author: Clara Smith
+
+Essay: [Between the Lines](https://ptannotated.com/essays/between-the-lines.html)
