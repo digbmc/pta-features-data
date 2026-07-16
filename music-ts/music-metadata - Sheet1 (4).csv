@@ -1,0 +1,80 @@
+Track URI,Movie,Track Name,Artist Name(s),diegeitic?,Release Year,Genres,Popularity,Duration (ms),Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Time Signature
+spotify:track:2M2WJ7gBlcKNxdhyfPp9zY,BOOGIE,Best of My Love,The Emotions,TRUE,1977,"motown,disco",72,220560,0.784,0.713,0,-6.865,1,0.0339,0.447,0.14,0.0904,0.97,115.443,4
+spotify:track:3pf96IFggfQuT6Gafqx2rt,BOOGIE,Sunny,Boney M.,TRUE,1976,disco,76,242240,0.647,0.868,0,-6.427,0,0.106,0.088,0.124,0.129,0.804,121.82,4
+spotify:track:4Wr14AISsCuBGdkA6rids4,BOOGIE,Fly Robin Fly,Silver Convention,TRUE,1975,disco,52,230920,0.826,0.406,0,-14.153,0,0.0317,0.00719,0.731,0.0725,0.939,100.278,4
+spotify:track:6kLNaCapyWSguGejsRZSgg,BOOGIE,The Sage,Chico Hamilton Quintet;Buddy Collette,TRUE,1956,"cool jazz,hard bop,jazz,exotica",17,217786,0.18,0.0362,2,-22.673,0,0.0363,0.873,0.882,0.108,0.125,78.512,4
+spotify:track:2mXTJ76QRsGRm8TSZ8G1Rd,BOOGIE,Joy,Apollo 100,FALSE,1971,"progressive pop, baroque pop",28,158185,0.47,0.722,8,-14.465,1,0.0408,0.358,0.913,0.0814,0.743,133.43,4
+spotify:track:1PB078dr814Ajpsmqwj8sA,BOOGIE,Off the Road,Richard Gilks,TRUE,1978,country,2,147066,0.482,0.69,2,-15.186,1,0.0307,0.038,0.862,0.261,0.964,126.716,4
+spotify:track:4lO4RpFOp7nDnqJvTXeVTN,BOOGIE,Afternoon Delight,Starland Vocal Band,TRUE,1976,"yacht rock,soft rock",66,193040,0.486,0.443,5,-11.728,1,0.0301,0.492,0,0.101,0.785,147.206,4
+spotify:track:53d3lGEb9rQLuc0wS8jBFx,BOOGIE,Jungle Fever,The Chakachas,FALSE,1970,"latin, funk, proto-disco",44,263013,0.648,0.49,0,-15.252,1,0.0905,0.521,0.21,0.193,0.622,98.835,4
+spotify:track:7da5B9d2oVV16YSzXVxmrR,BOOGIE,Brand New Key,Melanie,TRUE,1971,"folk, pop, soft rock",57,147040,0.703,0.292,1,-10.924,1,0.036,0.805,0.00000376,0.08,0.855,84.032,4
+spotify:track:0vnWQqRGqMmFwqvtyMr8sZ,BOOGIE,Mama Told Me (Not To Come),Three Dog Night,FALSE,1970,rock,47,196933,0.678,0.621,1,-13.454,1,0.0537,0.135,0.000468,0.207,0.804,120.7,4
+spotify:track:0xt7wDpsnwlv4OicsEQi7N,BOOGIE,Spill The Wine,Eric Burdon;War,TRUE,1970,funk rock,52,294800,0.829,0.472,2,-13.568,0,0.046,0.38,0,0.0982,0.959,119.709,4
+spotify:track:6wGMLoEqD2k3RBXFHD0yUp,BOOGIE,Lonely Boy,Andrew Gold,TRUE,1976,"soft rock, pop",56,264893,0.588,0.598,9,-13.288,1,0.0296,0.0386,0.0000583,0.107,0.866,123.724,4
+spotify:track:2hE5Lm5XOHR4t3xlhIFauP,BOOGIE,Fooled Around And Fell In Love,Elvin Bishop,TRUE,1975,"southern rock,yacht rock",70,276000,0.633,0.621,10,-11.494,1,0.0313,0.042,0.0172,0.186,0.593,113.325,3
+spotify:track:5vEzhZ9iwk5XFUHBZuDjfI,BOOGIE,Fat Man,Jethro Tull,FALSE,1969,"progressive rock,classic rock,art rock",34,170546,0.59,0.71,5,-9.028,1,0.0323,0.42,0.000267,0.028,0.885,131.775,4
+spotify:track:714hERk9U1W8FMYkoC83CO,BOOGIE,You Sexy Thing,Hot Chocolate,TRUE,1975,"funk, disco, pop-soul, British soul, R&B",78,244920,0.791,0.733,5,-5.465,1,0.0633,0.523,0.0016,0.167,0.962,105.853,4
+spotify:track:3nJafNL92x0y2FUWX7Du3d,BOOGIE,I Want To Be Free,Ohio Players,TRUE,1974,"funk,soul,classic soul",44,414360,0.501,0.485,5,-12.826,1,0.121,0.286,0.000273,0.0649,0.65,142.274,4
+spotify:track:2Nc1Tl1qHWLAtBnqRJmkP3,BOOGIE,Boogie Shoes,KC & The Sunshine Band,TRUE,1976,disco,56,132160,0.93,0.767,4,-11.646,1,0.0579,0.454,0.192,0.0692,0.972,119.538,4
+spotify:track:3mQTPYezPCB9uUM3WpkIff,BOOGIE,Machine Gun,Commodores,FALSE,1974,"motown,classic soul",51,159466,0.741,0.97,5,-6.364,1,0.0341,0.00882,0.836,0.295,0.778,113.103,4
+spotify:track:1Fk6KB9H0oZ2rYKFRDrhQm,BOOGIE,Magnet and Steel,Walter Egan,TRUE,1978,yacht rock,57,204760,0.719,0.395,1,-9.581,0,0.0335,0.349,0.0000507,0.0716,0.718,113.036,3
+spotify:track:1BvobQJjAHJnIqdujDNc3X,BOOGIE,J.P. Walk - 2026 Remaster,Sound Experience,TRUE,1974,"philly soul,funk",27,427850,0.494,0.846,7,-9.605,1,0.051,0.0135,0.834,0.076,0.47,102.107,4
+spotify:track:4JmZyfkzXWN7pHJsJpN6XP,BOOGIE,Got To Give It Up,Marvin Gaye,TRUE,1977,"motown,classic soul,soul,northern soul,quiet storm",63,361093,0.838,0.806,2,-9.737,1,0.0407,0.213,0.00214,0.354,0.847,123.121,4
+spotify:track:4Ymk3pqpkGx19gyxxUj5LK,BOOGIE,Ain't No Stoppin' Us Now,McFadden & Whitehead,TRUE,1979,"philly soul,disco",63,420986,0.678,0.688,1,-7.83,1,0.0544,0.0611,0,0.0671,0.887,114.098,4
+spotify:track:0NJ2bXPlMzP7MIz2Bmr7g3,BOOGIE,Driver's Seat,Sniff 'n' The Tears,TRUE,1978,new wave,55,239333,0.741,0.797,11,-7.948,0,0.0371,0.00287,0.0201,0.191,0.979,133.011,4
+spotify:track:22EZiuAYS7rsiiKhmtwCgB,BOOGIE,Feel Too Good - 2008 Remaster,The Move,TRUE,1970,"glam rock,proto-punk,baroque pop,psychedelic rock,power pop",29,578133,0.514,0.714,7,-7.179,1,0.0666,0.0424,0.00171,0.103,0.788,85.229,4
+spotify:track:5Rzxqve16s61lHAkSMFN8Y,BOOGIE,Do Your Thing,Charles Wright & The Watts 103rd Street Rhythm Band,FALSE,1968,"funk,motown",42,213400,0.758,0.509,9,-15.534,1,0.115,0.124,0.000125,0.278,0.58,127.212,4
+spotify:track:6R6ib5FgDYlG0rPA9c5DVv,BOOGIE,Queen Of Hearts,Juice Newton,TRUE,1981,"country pop, country rock",66,205826,0.658,0.862,2,-9.963,1,0.0535,0.211,0.0000544,0.2,0.969,169.532,4
+spotify:track:0YsKaqgFYvAKl0Ukx83pLK,BOOGIE,It's Just A Matter Of Time,Brook Benton,TRUE,1959,classic soul,36,149533,0.444,0.268,9,-14.307,1,0.0302,0.672,0.00000407,0.125,0.411,98.161,3
+spotify:track:3ZTEMmFm3FzfEtjqJN32c1,BOOGIE,Compared to What,Roberta Flack,FALSE,1969,"adult standards,classic soul",47,316586,0.468,0.352,5,-13.645,0,0.0538,0.494,0.0000223,0.113,0.435,108.532,4
+spotify:track:57trQKFZdJxHia4sMJioWk,BOOGIE,Sister Christian,Night Ranger,TRUE,1983,"glam metal,aor,arena rock,hard rock",67,302933,0.448,0.35,5,-16.239,1,0.0393,0.147,0.00000227,0.0842,0.234,177.279,4
+spotify:track:5RsUlxLto4NZbhJpqJbHfN,BOOGIE,Jessie's Girl,Rick Springfield,TRUE,1981,yacht rock,78,194120,0.727,0.834,2,-5.851,1,0.0496,0.165,0,0.105,0.816,131.7,4
+spotify:track:2IJftBfq7pJ43tfnOR0RB3,BOOGIE,99 Luftballons,Nena,TRUE,1983,"neue deutsche welle,schlager,german pop",78,231466,0.636,0.467,4,-10.1,1,0.0421,0.0915,0.0000017,0.117,0.58,96.639,4
+,BOOGIE,Fat Man,Jethro Tull,FALSE,,,,,,,,,,,,,,,,
+spotify:track:0ObrXLrfrqJUNc8RfmIBHP,BOOGIE,God Only Knows,The Beach Boys,FALSE,1966,baroque pop,59,174906,0.44,0.462,9,-9.338,1,0.0382,0.154,0,0.0529,0.31,116.033,4
+spotify:track:0ZYf6N5eBeXStMri0mf3DZ,BOOGIE,Voices Carry,Til Tuesday,TRUE,1985,new wave,64,263573,0.583,0.574,0,-9.044,1,0.0239,0.0282,0.00000214,0.114,0.578,104.995,4
+spotify:track:2hdNya0b6Cc2YJ8IyaQIWp,BOOGIE,Livin' Thing,Electric Light Orchestra,FALSE,1976,"art rock,soft rock",75,211708,0.549,0.651,0,-7.097,1,0.0323,0.583,0,0.121,0.368,122.818,4
+spotify:track:69s4AlXEFyRax2ev96a42r,LICORICE,July Tree,Nina Simone,FALSE,1965,"vocal jazz,soul jazz,soul,jazz,blues",26,164893,0.279,0.183,5,-14.675,1,0.0334,0.943,0.014,0.128,0.202,137.391,4
+spotify:track:4tSSqpnD8v7OQOJRCFIUiB,LICORICE,I Wished on the Moon - Live in Atlantic Studios,Rahsaan Roland Kirk,TRUE,1967,"free jazz,hard bop,jazz,bebop,experimental jazz",3,354266,0.489,0.031,10,-27.413,1,0.0462,0.978,0.0395,0.741,0.249,104.117,4
+spotify:track:2zaaCXTluJ85eceWQx0JPQ,LICORICE,I Left My Heart In San Francisco,Johnny Guarnieri,TRUE,1975,jazz,6,241866,0.42,0.32,0,-13.015,1,0.0732,0.446,0.871,0.178,0.216,180.89,3
+spotify:track:1PFBQ9GzRhX1txT7eHWGf2,LICORICE,Sometimes I'm Happy,Johnny Guarnieri,TRUE,1975,jazz,25,245466,0.499,0.236,8,-14.608,1,0.0371,0.795,0.846,0.11,0.286,100.979,4
+spotify:track:0ctgmKdlPY8xx41wY339Da,LICORICE,Stumblin' In,Chris Norman;Suzi Quatro,both,1978,"yacht rock,glam rock, soft rock",62,238853,0.754,0.768,7,-7.687,1,0.0366,0.0111,0.0000305,0.224,0.852,129.305,4
+spotify:track:0B1zVsLqmV9ibIFdNS5tGs,LICORICE,I Saw the Light,Todd Rundgren,TRUE,1972,"yacht rock,power pop,philly soul",65,182800,0.583,0.833,0,-8.29,1,0.0343,0.0531,0.0000557,0.16,0.81,119.884,4
+spotify:track:0edWHlI2pjWLaetkzojpC3,LICORICE,Ac-Cent-Tchu-Ate The Positive - Single Version,Bing Crosby;The Andrews Sisters;Vic Schoen & His Orchestra,TRUE,1944,"christmas,big band,swing music",22,162866,0.636,0.403,1,-9.806,1,0.0914,0.949,0.00000278,0.256,0.926,137.747,4
+spotify:track:6jnoO3gTjxSe7cT3OAHJEo,LICORICE,Blue Sands,Chico Hamilton Quintet;Buddy Collette,TRUE,1956,"cool jazz,hard bop,jazz,exotica",20,396613,0.473,0.088,1,-23.065,1,0.0603,0.881,0.729,0.12,0.306,103.694,4
+spotify:track:6UfXkk6W9NlhEFBRaTxB3j,LICORICE,But You're Mine,Sonny & Cher,FALSE,1966,pop,26,184533,0.476,0.684,2,-8.251,1,0.0364,0.0654,0.00000983,0.306,0.491,126.828,4
+spotify:track:4LjlazEWwJqbTqwcCbRhqK,LICORICE,"My Ding-A-Ling - Live At Fillmore Auditorium, San Francisco, CA/1967",Chuck Berry;Steve Miller Band,TRUE,1967,"rockabilly,rock and roll,classic rock",32,276493,0.619,0.341,3,-12.511,1,0.0425,0.956,0.00000603,0.878,0.79,127.241,4
+spotify:track:5piJiL6aRhvrKBa9YuEfS9,LICORICE,Peace Frog,The Doors,FALSE,1970,"psychedelic rock,classic rock,acid rock",68,170132,0.641,0.725,7,-7.376,1,0.039,0.16,0.00321,0.648,0.808,112.529,4
+spotify:track:57ct8jKi6trntXiRV0NnXi,LICORICE,If You Could Read My Mind,Gordon Lightfoot,TRUE,1970,"folk rock,folk,singer-songwriter,yacht rock",73,228840,0.612,0.24,9,-12.821,1,0.033,0.745,0.0000786,0.115,0.223,122.565,4
+spotify:track:4pSRThv7cIy0RPUY6iK4KJ,LICORICE,Softly Whispering I Love You,The Congregation,FALSE,1971,pop,42,181546,0.361,0.634,10,-7.204,1,0.0286,0.0217,0.0244,0.158,0.582,95.91,4
+spotify:track:4u2i6dbT4DgGwmQAqw8gnt,LICORICE,"Lisa, Listen to Me","Blood, Sweat & Tears",TRUE,1971,"pyschedelic rock, classic rock, prog rock, art rock",31,178866,0.54,0.607,2,-11.005,1,0.0492,0.457,0.00000711,0.186,0.545,87.793,3
+spotify:track:0iIcqTXzPzdXp56SFaf6wa,LICORICE,Gypsy In My Soul,Johnny Guarnieri,TRUE,1975,jazz,1,221120,0.78,0.32,5,-12.668,1,0.0441,0.423,0.806,0.125,0.598,118.516,4
+spotify:track:6MAvGlDjQKEEDgrAU2iqla,LICORICE,You'll Never Know,Johnny Guarnieri,TRUE,1975,jazz,1,254053,0.381,0.0581,5,-22.075,1,0.0382,0.983,0.925,0.0957,0.12,130.579,4
+spotify:track:4AceaJPUfZKEsTpD5Amw5B,LICORICE,Let Me Roll It,Paul McCartney;Wings,FALSE,1973,blues rock,36,290293,0.334,0.409,4,-8.109,1,0.0383,0.032,0.00213,0.0913,0.451,172.456,3
+spotify:track:3ZE3wv8V3w2T2f7nOCjV0N,LICORICE,Life on Mars? - 2015 Remaster,David Bowie,FALSE,1971,"glam rock,art rock",73,235986,0.445,0.384,10,-14.642,1,0.0417,0.635,0.0000774,0.0539,0.216,123.295,4
+spotify:track:4GbCxnQslBoAEgMc0Jd6aX,LICORICE,Indian Reservation (The Lament Of The Cherokee) (Rerecorded),Paul Revere & Mark Lindsay formerly of Paul Revere & The Raiders,TRUE,1971,"blues, classic rock",2,169973,0.683,0.517,1,-10.371,1,0.0369,0.0511,0.000889,0.0766,0.364,133.304,4
+spotify:track:7r3Hwig1mvtlVq0ZbJ09Wb,LICORICE,Slip Away,Clarence Carter,both,1968,"classic blues,classic soul,soul,motown",58,153680,0.784,0.433,1,-9.1,1,0.0376,0.299,0.00016,0.0248,0.917,113.491,4
+spotify:track:59IxJQuFPmW4Xvy7GynZDF,LICORICE,7-Rooms Of Gloom,Four Tops,TRUE,1967,"motown,northern soul,classic soul,soul",35,154573,0.517,0.694,6,-8.552,1,0.0365,0.246,0,0.267,0.878,89.085,4
+spotify:track:3F64pIPqvcujnwvcVLVZ64,LICORICE,Young Girl,Gary Puckett & The Union Gap,TRUE,1968,pop,52,194493,0.408,0.544,3,-8.277,1,0.0333,0.653,0,0.512,0.446,119.112,4
+spotify:track:7CQQBWqFfROA5RWyY04ifv,LICORICE,Diamond Girl,Seals and Crofts,TRUE,1973,"yacht rock,soft rock",62,253400,0.575,0.386,4,-12.012,0,0.0319,0.463,0.00176,0.0576,0.414,138.467,4
+spotify:track:4yR25IogNxZ2YJXhbfX6ST,LICORICE,Greensleeves,Mason Williams,FALSE,1969,"Easy listening, classical, bluegrass, folk",30,165000,0.497,0.633,9,-10.91,0,0.034,0.149,0.903,0.0692,0.912,82.09,4
+spotify:track:6QiRFf6spEpBxAw2J26tAM,LICORICE,Barabajagal (with Jeff Beck Group),Donovan;Jeff Beck,TRUE,1969,"folk rock,psychedelic rock,jazz fusion,blues rock,blues",39,200093,0.668,0.57,11,-16.897,0,0.0696,0.0952,0.0469,0.0826,0.675,100.342,4
+spotify:track:65aeHyw8GdHFwmEvdSns21,LICORICE,Walk Away,James Gang,TRUE,1971,"classic rock,southern rock",55,212694,0.6,0.843,8,-7.455,1,0.0351,0.018,0.199,0.34,0.916,102.323,4
+spotify:track:2FCiuaXNE1kjwSoAvso4vT,LICORICE,The Horse,Cliff Nobles,TRUE,1968,"northern soul,philly soul",38,146066,0.647,0.571,7,-6.003,0,0.0278,0.0501,0.887,0.0896,0.922,135.785,4
+spotify:track:3ojFfQaGWOxedkvrWu1yxq,LICORICE,Tomorrow May Not Be Your Day,Taj Mahal,FALSE,1971,"blues,classic blues,country blues,blues rock,modern blues",20,254533,0.66,0.703,2,-9.168,1,0.0854,0.803,0.00885,0.0798,0.814,142.667,4
+spotify:track:4SKkVAWWlnIwB6SqjI6TWO,INHERENT,Dreaming On A Cloud,The Tornados,TRUE,1962,surf rock,7,122800,0.495,0.532,0,-5.808,1,0.0277,0.507,0.00000989,0.574,0.581,104.486,4
+spotify:track:7GHf8dQ2wA71wYOuRsQCZP,INHERENT,Rhythm of the Rain,The Cascades,TRUE,1963,doo-wop,67,146360,0.659,0.66,0,-8.337,1,0.0441,0.627,0.000217,0.136,0.672,116.634,4
+spotify:track:1tzXnPndBrd2G5GXrOBc1c,INHERENT,Vitamin C - 2004 Remastered Version,CAN,FALSE,1972,"krautrock,space rock,progressive rock,experimental,psychedelic rock,art rock,proto-punk",52,214066,0.643,0.644,4,-12.615,0,0.0462,0.00669,0.673,0.162,0.853,117.225,4
+spotify:track:0WRdOVjKkKWyEPW2kZtVpS,INHERENT,Soup - 2004 Remastered Version,CAN,FALSE,1972,"krautrock,space rock,progressive rock,experimental,psychedelic rock,art rock,proto-punk",26,631559,0.421,0.569,2,-12.142,1,0.1,0.00244,0.176,0.205,0.188,114.168,5
+spotify:track:1h2Zt4fkA3cOudjqUbylPT,INHERENT,Simba - Remastered 1996,Les Baxter,both,1955,"exotica,lounge,adult standards,easy listening",28,163000,0.551,0.22,0,-17.876,0,0.0306,0.826,0.00741,0.183,0.56,111.656,4
+spotify:track:217fTQXxcxGIRwi5bE18rp,INHERENT,Burning Bridges,Jack Scott,FALSE,1960,"country, rockabilly",12,161506,0.492,0.196,9,-15.701,1,0.0258,0.682,0.00235,0.165,0.25,82.761,3
+spotify:track:4bmlmu8G2R7Z0Gnm0UMFmE,INHERENT,The Throwaway Age,Bob Irwin and the Pluto Walkers,TRUE,2013,"exotica,surf rock",26,220333,0.65,0.448,2,-12.215,1,0.0639,0.887,0.903,0.85,0.573,125.886,4
+spotify:track:2FsI3ChlZhs5nWanLDwJhy,INHERENT,Harvest,Neil Young,FALSE,1972,"classic rock,folk rock,singer-songwriter,roots rock",51,191631,0.541,0.161,2,-21.089,1,0.0399,0.736,0.000142,0.191,0.28,85.68,4
+spotify:track:2UTEWnzXyuZGIAsItRV5Up,INHERENT,Here Comes The Ho-Dads,The Marketts,TRUE,1963,"surf rock,northern soul",32,135506,0.755,0.729,7,-9.479,1,0.0362,0.661,0.518,0.371,0.88,143.384,4
+spotify:track:2cwjS2UkebBgXfQgUZvr4W,INHERENT,Never My Love,The Association,TRUE,1968,"baroque pop,acid rock",55,190506,0.495,0.271,6,-17.492,1,0.0282,0.564,0.00237,0.0716,0.555,95.284,4
+spotify:track:4XCGfHpGVq8xw800o5cwWs,INHERENT,Les Fleurs,Minnie Riperton,both,1970,"soul, pyschedelia, gospel, jazz",68,199293,0.441,0.499,6,-9.453,1,0.0484,0.665,0.00000287,0.211,0.513,151.878,4
+spotify:track:4chKhw2tf3sOD6AK1ZBXeo,INHERENT,Journey Through the Past,Neil Young,FALSE,1972,"classic rock,folk rock,singer-songwriter,roots rock",39,141480,0.522,0.32,0,-11.928,1,0.0367,0.436,0,0.209,0.439,95.781,4
+spotify:track:6meIeOX3DHdaCnaNw67abE,INHERENT,Sukiyaki,Kyu Sakamoto,TRUE,1962,"kayōkyoku,enka",47,189520,0.415,0.359,7,-11.094,1,0.0334,0.707,0.0000653,0.319,0.404,146.029,4
+spotify:track:00goDuc8Y6ARilPpAWJm8i,INHERENT,Adam-12,Television's Greatest Hits Band,TRUE,1968,tv theme song,6,50226,0.583,0.434,5,-13.275,0,0.0579,0.413,0.667,0.0525,0.643,128.685,4
+spotify:track:2g2GkH3vZHk4lWzBjgQ6nY,INHERENT,(What A) Wonderful World,Sam Cooke,both,1960,"R&B, soul",66,125440,0.691,0.507,11,-10.23,1,0.0343,0.627,0,0.457,0.885,128.518,4
+spotify:track:7BBkDpvHGBR7VJPvUe9Igr,INHERENT,Any Day Now,Chuck Jackson,FALSE,1962,"R&B, soul",29,205266,0.732,0.727,9,-8.014,0,0.0267,0.507,0.0000265,0.157,0.821,107.736,4
