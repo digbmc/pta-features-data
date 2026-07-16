@@ -10,3 +10,10 @@ Essay: [Paul Thomas Visualized](https://ptannotated.com/essays/paul-thomas-visua
 
 ReadMe: [deformance-gm/README.md](/deformance-gm/README.md)
 
+## My Awesome, Annotated Mixtape #6
+
+Author: Tallulah Stallvik
+
+Essay: [My Awesome, Annotated Mixtape #6](https://ptannotated.com/essays/my-annotated-mixtape.html)
+
+ReadMe: [music-ts/README.md](/music-ts/README.md)
