@@ -23,3 +23,5 @@ ReadMe: [music-ts/README.md](/music-ts/README.md)
 Author: Clara Smith
 
 Essay: [Between the Lines](https://ptannotated.com/essays/between-the-lines.html)
+
+ReadMe: [network-cs/README.md](/deformance-gm/README.md)
