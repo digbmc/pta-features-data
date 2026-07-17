@@ -31,7 +31,7 @@
 3. Select directory containing stills
 4. make sure 'virtual stack' is selected
 5. Search for make montage
-   - the menu path should be image > stacks > make montage
+   - The menu path should be image > stacks > make montage
 7. Lower the scale factor if necessary (I had to lower it from .25 to .1 for the montage to load properly)
 
 ## Using ImagePlot
