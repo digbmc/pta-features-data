@@ -25,3 +25,11 @@ Author: Clara Smith
 Essay: [Between the Lines](https://ptannotated.com/essays/between-the-lines.html)
 
 ReadMe: [network-cs/README.md](/deformance-gm/README.md)
+
+# Tempo and Shot Length in PTA's Filmography
+
+Author: Lucia Engelhardt
+
+Essay: [Tempo and Shot Length in PTA's Filmography](https://digbmc.github.io/pt-annotated/essays/tempo-feature.html)
+
+ReadMe: [tempo/README.md](/tempo-le/README.md)
